@@ -1,4 +1,3 @@
-const { success } = require('zod');
 const { CityService } = require('../service');
 const { fa } = require('zod/locales');
 
